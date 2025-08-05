@@ -1,4 +1,5 @@
-# 👋 ¡Hola! Soy Maxi Guerra
+# 👋 ¡Hola! Soy Maximiliano Arizmendy Guerra
+
 
 🎓 Actualmente estudio la **Tecnología en Análisis y Desarrollo de Software** en el **SENA** (Colombia). Me apasiona construir soluciones web completas y funcionales, integrando tanto el frontend como el backend. 
 
